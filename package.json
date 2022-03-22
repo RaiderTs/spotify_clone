@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.3.1"
-  }
+  },
+  "name": "spotify_clone",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaiderTs/spotify_clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaiderTs/spotify_clone/issues"
+  },
+  "homepage": "https://github.com/RaiderTs/spotify_clone#readme",
+  "description": ""
 }
